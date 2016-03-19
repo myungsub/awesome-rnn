@@ -37,6 +37,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
     - [Question Answering](#question-answering)
   - [Computer Vision](#computer-vision)
     - [Object Recognition](#object-recognition)
+    - [Low-level Vision](#low--level-vision)
     - [Image Generation](#image-generation)
     - [Video Analysis](#video-analysis)
   - [Multimodal (CV+NLP)](#multimodal-cv--nlp)
@@ -223,12 +224,16 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 * Wonmin Byeon, Thomas Breuel, Federico Raue1, and Marcus Liwicki1, *Scene Labeling with LSTM Recurrent Neural Networks*, CVPR 2015 [[Paper](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Byeon_Scene_Labeling_With_2015_CVPR_paper.pdf)]
 * Mircea Serban Pavel, Hannes Schulz, and Sven Behnke, *Recurrent Convolutional Neural Networks for Object-Class Segmentation of RGB-D Video*, IJCNN 2015 [[Paper](http://www.ais.uni-bonn.de/papers/IJCNN_2015_Pavel.pdf)]
 * Shuai Zheng, Sadeep Jayasumana, Bernardino Romera-Paredes, Vibhav Vineet, Zhizhong Su, Dalong Du, Chang Huang, and Philip H. S. Torr, *Conditional Random Fields as Recurrent Neural Networks*, arXiv:1502.03240 [[Paper](http://arxiv.org/pdf/1502.03240)]
+* Bing Shuai, Zhen Zuo, Gang Wang, and Bing Wang, *DAG-Recurrent Neural Networks For Scene Labeling*, arXiv:1509.00552 [[Paper](http://arxiv.org/pdf/1509.00552)]
 * Xiaodan Liang, Xiaohui Shen, Donglai Xiang, Jiashi Feng, Liang Lin, and Shuicheng Yan, *Semantic Object Parsing with Local-Global Long Short-Term Memory*, arXiv:1511.04510 [[Paper](http://arxiv.org/pdf/1511.04510)]
+* Francesco Visin, Kyle Kastner, Aaron Courville, Yoshua Bengio, Matteo Matteucci, and Kyunghyun Cho, *ReSeg: A Recurrent Neural Network for Object Segmentation*, arXiv:1511.07053 [[Paper](http://arxiv.org/pdf/1511.07053)]
 * Sean Bell, C. Lawrence Zitnick, Kavita Bala, and Ross Girshick, *Inside-Outside Net: Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks*, arXiv:1512.04143 / ICCV 2015 workshop [[Paper](http://arxiv.org/pdf/1512.04143)]
 
 #### Visual Tracking
 * Quan Gan, Qipeng Guo, Zheng Zhang, and Kyunghyun Cho, *First Step toward Model-Free, Anonymous Object Tracking with Recurrent Neural Networks*, arXiv:1511.06425 [[Paper](http://arxiv.org/pdf/1511.06425)]
 
+#### Low-Level Vision
+* Jiwon Kim, Jung Kwon Lee, Kyoung Mu Lee, *Deeply-Recursive Convolutional Network for Image Super-Resolution*, arXiv:1511.04491 [[Paper]](http://arxiv.org/abs/1511.04491)
 
 #### Image Generation
 * Karol Gregor, Ivo Danihelka, Alex Graves, Danilo J. Rezende, and Daan Wierstra, *DRAW: A Recurrent Neural Network for Image Generation,* ICML 2015 [[Paper](http://arxiv.org/pdf/1502.04623)]
@@ -349,12 +354,8 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 * Wojciech Zaremba and Ilya Sutskever, *Learning to Execute*, arXiv:1410.4615 [[Paper](http://arxiv.org/pdf/1410.4615)] [[Code](https://github.com/wojciechz/learning_to_execute)]
 * Samy Bengio, Oriol Vinyals, Navdeep Jaitly, and Noam Shazeer, *Scheduled Sampling for Sequence Prediction with
 Recurrent Neural Networks*, arXiv:1506.03099 / NIPS 2015 [[Paper](http://arxiv.org/pdf/1506.03099)]
-* Bing Shuai, Zhen Zuo, Gang Wang, and Bing Wang, *DAG-Recurrent Neural Networks For Scene Labeling*, arXiv:1509.00552 [[Paper](http://arxiv.org/pdf/1509.00552)]
 * Soren Kaae Sonderby, Casper Kaae Sonderby, Lars Maaloe, and Ole Winther, *Recurrent Spatial Transformer Networks*, arXiv:1509.05329 [[Paper](http://arxiv.org/pdf/1509.05329)]
 * Cesar Laurent, Gabriel Pereyra, Philemon Brakel, Ying Zhang, and Yoshua Bengio, *Batch Normalized Recurrent Neural Networks*, arXiv:1510.01378 [[Paper](http://arxiv.org/pdf/1510.01378)]
-* Jiwon Kim, Jung Kwon Lee, Kyoung Mu Lee, *Deeply-Recursive Convolutional Network for Image Super-Resolution*, arXiv:1511.04491 [[Paper]](http://arxiv.org/abs/1511.04491)
-* Quan Gan, Qipeng Guo, Zheng Zhang, and Kyunghyun Cho, *First Step toward Model-Free, Anonymous Object Tracking with Recurrent Neural Networks*, arXiv:1511.06425 [[Paper](http://arxiv.org/pdf/1511.06425)]
-* Francesco Visin, Kyle Kastner, Aaron Courville, Yoshua Bengio, Matteo Matteucci, and Kyunghyun Cho, *ReSeg: A Recurrent Neural Network for Object Segmentation*, arXiv:1511.07053 [[Paper](http://arxiv.org/pdf/1511.07053)]
 * Juergen Schmidhuber, *On Learning to Think: Algorithmic Information Theory for Novel Combinations of Reinforcement Learning Controllers and Recurrent Neural World Models*, arXiv:1511.09249 [[Paper]](http://arxiv.org/pdf/1511.09249)
 
 ## Datasets
