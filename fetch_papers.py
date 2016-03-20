@@ -89,7 +89,7 @@ if __name__ == "__main__":
       # extract just the raw arxiv id and version for this paper
       rawid, link = parse_arxiv_url(j['id'])
       j['rawid'] = rawid
-      j['link'] = link
+      j['pdflink'] = link
 
       # add to our database if we didn't have it before, or if this is a new version
       if not rawid in db:
